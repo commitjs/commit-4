@@ -19,8 +19,6 @@ In the fourth episode of commit.js we'll talk about routing in Single Page Appli
 
 In the next couple of series we will be developing our own Angular like library that will speed up our development process.
 
-The event will be broadcasted on youtube: 
-https://www.youtube.com/watch?v=3vjq3...
 
 Everyone is welcome to participate by asking questions inside the chat section! If you are interested in taking part in our events you can contact us on our facebook page.
 
